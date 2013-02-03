@@ -12,3 +12,9 @@ check_snmp_radwin.pl
 --------------------
 Allows Nagios to check Link State, Receive Levels, Transmit Power and Integrity of Radwin PtP via SNMP.
 Tested with Radwin 2000
+
+check_snmp_nti.pl
+--------------------
+Allows Nagios to check Battery Level and Input Power of NTI SEMS via SNMP.
+Tested with NTI SEMS-16
+
