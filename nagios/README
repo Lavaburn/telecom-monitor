@@ -7,3 +7,8 @@ check_snmp_newtec.pl
 --------------------
 Allows Nagios to check Voltage, Temperature, Receive levels and Transmit power of Newtec modem via SNMP.
 Tested with Newtec EL-470 and EL-970
+
+check_snmp_radwin.pl
+--------------------
+Allows Nagios to check Link State, Receive Levels, Transmit Power and Integrity of Radwin PtP via SNMP.
+Tested with Radwin 2000
