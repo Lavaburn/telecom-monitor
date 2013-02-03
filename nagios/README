@@ -1,0 +1,4 @@
+check_snmp_netenforcer.pl
+-------------------------
+Allows Nagios to check Memory, CPU and Diskspace on Allot NetEnforcer via SNMP.
+Tested with AC-402 and AC-504
