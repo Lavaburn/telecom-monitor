@@ -1,4 +1,9 @@
 check_snmp_netenforcer.pl
 -------------------------
-Allows Nagios to check Memory, CPU and Diskspace on Allot NetEnforcer via SNMP.
-Tested with AC-402 and AC-504
+Allows Nagios to check Memory, CPU and Diskspace of Allot NetEnforcer via SNMP.
+Tested with NetEnforcer AC-402 and AC-504
+
+check_snmp_newtec.pl
+--------------------
+Allows Nagios to check Voltage, Temperature, Receive levels and Transmit power of Newtec modem via SNMP.
+Tested with Newtec EL-470 and EL-970
