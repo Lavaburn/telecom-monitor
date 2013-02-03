@@ -22,3 +22,8 @@ check_snmp_dlink.pl
 -------------------
 Allows Nagios to check CPU, Power, Fan State and Temperature of D-link Managed Switch via SNMP.
 Tested with D-Link DGS-3100
+
+check_snmp_comtech.pl
+---------------------
+Allows Nagios to check Status, Receive Levels and Power of Comtech modem via SNMP.
+Tested with Comtech CMR-5975
