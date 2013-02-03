@@ -14,7 +14,11 @@ Allows Nagios to check Link State, Receive Levels, Transmit Power and Integrity 
 Tested with Radwin 2000
 
 check_snmp_nti.pl
---------------------
+-----------------
 Allows Nagios to check Battery Level and Input Power of NTI SEMS via SNMP.
 Tested with NTI SEMS-16
 
+check_snmp_dlink.pl
+-------------------
+Allows Nagios to check CPU, Power, Fan State and Temperature of D-link Managed Switch via SNMP.
+Tested with D-Link DGS-3100
