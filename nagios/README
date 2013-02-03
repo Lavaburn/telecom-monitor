@@ -27,3 +27,8 @@ check_snmp_comtech.pl
 ---------------------
 Allows Nagios to check Status, Receive Levels and Power of Comtech modem via SNMP.
 Tested with Comtech CMR-5975
+
+check_snmp_ipricot.pl
+---------------------
+Allows Nagios to check Receive Level, Link State and Temperature of Ipricot modem via SNMP.
+Tested with Ipricot Ipr-S600
