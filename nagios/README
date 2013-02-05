@@ -32,3 +32,7 @@ check_snmp_ipricot.pl
 ---------------------
 Allows Nagios to check Receive Level, Link State and Temperature of Ipricot modem via SNMP.
 Tested with Ipricot Ipr-S600
+
+check_aperto.pl
+---------------
+Allows Nagios to check CPE License of Aperto PM5000 via SNMP.
