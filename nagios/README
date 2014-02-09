@@ -52,22 +52,11 @@ check_snmp_alcoma.pl
 Allows Nagios to check Status, TX Power, RX Levels, Quality, SNR, BER and modulation from Alcoma MP series
 Tested with Alcoma MP360 AL17F
 
-check_snmp_mikrotik_route.pl  
-----------------------------
-Allows Nagios to get gateway for a particular route from Mikrotik's RouterOS
-Tested with ROS v6
-
 check_ntp_stratum.sh
--------------------------
+--------------------
 Allows Nagios to get Stratum from NTP Server - Requires NTPDC
 
-
-
-
-
-
-
-
-
-
-
+check_snmp_qnap.pl
+------------------
+Allows Nagios to get Disk State from QNAP NAS
+Tested with QNAP TS-439U
