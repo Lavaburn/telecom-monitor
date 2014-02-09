@@ -8,7 +8,66 @@ check_snmp_newtec.pl
 Allows Nagios to check Voltage, Temperature, Receive levels and Transmit power of Newtec modem via SNMP.
 Tested with Newtec EL-470 and EL-970
 
-check_snmp_radwin.pl
+check_snmp_radwin2000.pl
 --------------------
 Allows Nagios to check Link State, Receive Levels, Transmit Power and Integrity of Radwin PtP via SNMP.
 Tested with Radwin 2000
+
+check_snmp_nti.pl
+-----------------
+Allows Nagios to check Battery Level and Input Power of NTI SEMS via SNMP.
+Tested with NTI SEMS-16
+
+check_snmp_dlink.pl
+-------------------
+Allows Nagios to check CPU, Power, Fan State and Temperature of D-link Managed Switch via SNMP.
+Tested with D-Link DGS-3100
+
+check_snmp_comtech.pl
+---------------------
+Allows Nagios to check Status, Receive Levels and Power of Comtech modem via SNMP.
+Tested with Comtech CMR-5975
+
+check_snmp_ipricot.pl
+---------------------
+Allows Nagios to check Receive Level, Link State and Temperature of Ipricot modem via SNMP.
+Tested with Ipricot Ipr-S600
+
+check_snmp_aperto.pl
+--------------------
+Allows Nagios to check CPE License of Aperto PM5000 via SNMP.
+
+check_snmp_air4g.pl
+-------------------
+Allows Nagios to check Temperature, Voltage, Sync State, GPS State, MS Count, Noise, Timeframe Utilisation from Airspan WiMAX BaseStation
+Tested with Airspan Air4G
+
+check_snmp_radwin5000.pl
+------------------------
+Allows Nagios to check TX Power, HSS State, HBS State, Free Timeslots, HSU Throughput, Receive Levels and RSS Balance from Radwin 5000 BaseStation
+Tested with Radwin 5200 HBS
+
+check_snmp_alcoma.pl    
+--------------------
+Allows Nagios to check Status, TX Power, RX Levels, Quality, SNR, BER and modulation from Alcoma MP series
+Tested with Alcoma MP360 AL17F
+
+check_snmp_mikrotik_route.pl  
+----------------------------
+Allows Nagios to get gateway for a particular route from Mikrotik's RouterOS
+Tested with ROS v6
+
+check_snmp_ntp_stratum.sh
+-------------------------
+Allows Nagios to get Stratum from NTP Server
+
+
+
+
+
+
+
+
+
+
+
