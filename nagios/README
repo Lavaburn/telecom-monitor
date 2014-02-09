@@ -57,9 +57,9 @@ check_snmp_mikrotik_route.pl
 Allows Nagios to get gateway for a particular route from Mikrotik's RouterOS
 Tested with ROS v6
 
-check_snmp_ntp_stratum.sh
+check_ntp_stratum.sh
 -------------------------
-Allows Nagios to get Stratum from NTP Server
+Allows Nagios to get Stratum from NTP Server - Requires NTPDC
 
 
 
