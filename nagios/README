@@ -60,3 +60,8 @@ check_snmp_qnap.pl
 ------------------
 Allows Nagios to get Disk State from QNAP NAS
 Tested with QNAP TS-439U
+
+check_snmp_cpu.pl
+-----------------
+Allows Nagios to check CPU Load from Extreme Switches, QNAP NASes and Mikrotik Routers
+Tested with Extreme X450 (XOS 12); QNAP TS-439U; Mikrotik ROS v4/5/6
